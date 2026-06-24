@@ -29,7 +29,11 @@ Jorge (dueño de Jodabor) encuentra leads navegando Facebook (páginas de negoci
 
 - **Casas de Playa en Monterrico** (16k seguidores, varias propiedades) → tier Negocio, sin precio en el primer mensaje.
 - **Hostelería el Diamante** (2k seguidores, varios chalets privados) → tier Vitrina, con precio "Desde Q3,250" incluido.
-- **Casas y chalet Monterrico** (4.8k seguidores, 94% recomendado, varias casas + chalet, solo Messenger) → tier Negocio, sin precio en el primer mensaje.
+- **Casas y chalet Monterrico** (4.8k seguidores, 94% recomendado, varias casas + chalet, solo Messenger) → tier Negocio, sin precio en el primer mensaje. **Contestaron** (única respuesta real hasta ahora): dijeron que pasarían la propuesta a alguien del equipo, preguntaron "¿Será página web?", Jorge confirmó con detalle + precio Q7,000 + link de ejemplo (detalleskairos.vercel.app). Luego contestaron: "Revisaremos esta propuesta y la enviaré a mis superiores" → está escalado internamente, en espera de respuesta. No se fuerza nada más por ahora, solo seguimiento cordial si preguntan algo.
+- **Casa La Perla GT Monterrico** (13k seguidores, 782 publicaciones, agente de bienes raíces, varias casas) → tier Negocio, sin precio. Mismo nicho (Monterrico, casas de playa) que los dos leads anteriores: ya son 3 de esta categoría.
+- **Casa vacacional Alma Del Mar** (Taxisco/Madre Vieja, una sola propiedad, precio $$$, sin contador de seguidores visible) → tier Vitrina, con precio Q3,250 incluido. Ángulo distinto a los anteriores: no es "catálogo disperso", es que cobran premium ($$$) pero no tienen presencia propia que respalde ese nivel.
+
+**Nota de patrón:** si siguen apareciendo leads del mismo nicho (casas de playa en Monterrico), considerar armar un trigger-template reusable para ese ángulo específico en vez de redactar cada uno desde cero (decisión pendiente, Jorge prefiere seguir uno por uno por ahora para no aumentar el margen de error).
 
 ## Para considerar a futuro: agentes de sales de msitarzewski/agency-agents
 
