@@ -29,6 +29,19 @@ Jorge (dueño de Jodabor) encuentra leads navegando Facebook (páginas de negoci
 
 - **Casas de Playa en Monterrico** (16k seguidores, varias propiedades) → tier Negocio, sin precio en el primer mensaje.
 - **Hostelería el Diamante** (2k seguidores, varios chalets privados) → tier Vitrina, con precio "Desde Q3,250" incluido.
+- **Casas y chalet Monterrico** (4.8k seguidores, 94% recomendado, varias casas + chalet, solo Messenger) → tier Negocio, sin precio en el primer mensaje.
+
+## Para considerar a futuro: agentes de sales de msitarzewski/agency-agents
+
+Repo externo (MIT) con 232 agentes tipo Claude Code. Revisados dos de la división de sales/specialized, no instalados todavía (decisión de Jorge: guardar en memoria, no actuar hasta que aplique). Son overkill para el volumen/canal actual (un canal, leads manuales), pero tienen piezas puntuales que sí van a servir:
+
+- **`sales/sales-outbound-strategist.md`** — secuencias multi-touch (8-12 toques), tiering de cuentas, señales de compra. Útil si el volumen de leads escala más allá de prospección manual uno por uno.
+- **`specialized/sales-outreach.md`** — cadencia de 7 toques/21 días, *playbook de objeciones* (explorar con preguntas, no rebatir), etapas de pipeline (Prospecting → Engaged → Discovery → Proposal → Negotiation → Closed), email de "breakup" como último toque.
+
+**Disparadores para sugerirlo proactivamente:**
+1. Cuando Jorge necesite escribir un **follow-up** porque un lead no contestó el primer mensaje → usar la lógica de "cada toque agrega algo nuevo" + breakup message, adaptado a WhatsApp.
+2. Cuando un lead **conteste con una objeción** (precio, "déjame pensarlo", "no tengo tiempo") → usar el playbook de objeciones (preguntas curiosas, no defender el precio).
+3. Si Jorge empieza a manejar **muchos leads a la vez** y pierde el tracking por solo capturas de pantalla → proponer las etapas de pipeline simples de `sales-outreach.md`.
 
 ## Convenciones de copy (heredadas de jodabor-web)
 
