@@ -97,6 +97,8 @@ Cuentas @jodaborweb (IG) y página de FB casi en cero (sin seguidores/posts real
 
 **Reglas de boost (~Q30):** solo si completion >40% Y hay comentario/share genuino (no de Jorge); nunca boostear con completion <20%; prioridad de boost a piezas del Pilar 2 (Kairos/DanceLab); máximo 1 boost activo por semana.
 
+**Acceso a herramientas (2026-06-25):** Jorge ya dio acceso a integraciones de Canva y Gmail en esta sesión de Claude Code. Canva sirve para producir de verdad los carruseles/posts estáticos del Pilar 3 (ya no solo el guion en HTML, sino el diseño final). Gmail puede usarse si algún lead/cliente prefiere contacto por correo en vez de WhatsApp (poco común hasta ahora, pero queda disponible).
+
 ## Contenido orgánico: reels y posts
 
 Guiones para IG/FB: reels (video) en `content/reels/`, piezas estáticas (carrusel) en `content/posts/`. Formato HTML con shot list (encuadre, cámara, acción, audio, overlay), caption, notas técnicas y nota de precio/pilar.
