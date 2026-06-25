@@ -34,8 +34,26 @@ Jorge (dueño de Jodabor) encuentra leads navegando Facebook (páginas de negoci
 - **Casa vacacional Alma Del Mar** (Taxisco/Madre Vieja, una sola propiedad, precio $$$, sin contador de seguidores visible) → tier Vitrina, con precio Q3,250 incluido. Ángulo distinto a los anteriores: no es "catálogo disperso", es que cobran premium ($$$) pero no tienen presencia propia que respalde ese nivel.
 - **Villas Vista Mar** (Monterrico, 692 seguidores, sin calificación, solo 1 opinión, confirmado: es una sola casa) → tier Vitrina, con precio Q3,250. Ángulo: página chica y nueva compitiendo en un nicho donde ya hay competidores con miles de seguidores, necesita generar confianza desde el primer vistazo.
 - **Blue Bay Monterrico** (3.4k seguidores, 116 publicaciones, "alquiler de casas de vacaciones" en plural, solo 2 opiniones, contestan en algunas horas) → tier Negocio, sin precio. Ya son 4 leads del mismo nicho (Monterrico, casas de playa).
+- **Chalet Los Arenales** (Hawaii Monterrico, anuncio pagado de Instagram, una sola propiedad) → tier Vitrina, con precio. Ángulo: ya pagan por el anuncio pero el funnel se rompe en el mismo post (gente pregunta precio/disponibilidad en comentarios en vez de reservar directo). 5to lead de Monterrico/casas de playa.
+- **Print Factory** (Instagram, 108 seguidores, DTF textil/stickers/placas) → tier Negocio, sin precio. Ángulo fuerte: el botón de WhatsApp del perfil tira "Enlace incorrecto", problema activo y urgente, no solo "mejorarías con web".
+- **BYK Publicidad** (Instagram, 2,078 seguidores, rotulación comercial e industrial, precios por volumen) → tier propuesto Pro (cotizaciones B2B) o Negocio si Jorge prefiere bajarlo, pendiente de confirmar con Jorge cuál usar. Nicho nuevo probado: imprenta/publicidad gráfica.
+- **Foto Roma** (Facebook, 2.4k seguidores, fotos para título y carnets, local físico en zona 10, solo 2 opiniones) → tier Vitrina, con precio. Ángulo (corregido en la sesión: Jorge encontró la página vía Google, así que sí rankea): el clic cae directo a un perfil de Facebook con anuncios y sin precios claros, no falta de visibilidad en buscadores.
+- **Encuadre Films GT** (Instagram, 2,416 seguidores, 320 publicaciones, foto/video de bodas y eventos sociales, "Guatemala & Centro America") → tier Negocio, sin precio. Ángulo: portafolio sin organizar en el feed, pesa más con clientela internacional comparando fotógrafos para boda destino.
+- **Weddings & Princess** (anuncio pagado de Instagram, paquetes de foto/video para bodas y XV años "Desde Q2,495") → tier Vitrina, con precio (ya publican el suyo). Mismo patrón de funnel roto que Chalet Los Arenales.
+- **Edgar Solar** (Instagram, @edgarsolar_, fotógrafo individual, 2,494 seguidores, weddings and events photography) → tier Vitrina, con precio. Ángulo limpio: su propia bio dice literal "DM for booking", evidencia directa sin inferir nada.
+- **Innova Empresarial** (Facebook, 127 publicaciones, 87 seguidores, PBX, botón "Cotiza", productos promocionales: redes deportivas, camisetas con marca, tarjetas) → tier propuesto Pro (cotizaciones B2B), igual que BYK queda abierto a bajarlo a Negocio. Ángulo: dicen literal "Solicita nuestro catálogo!", no lo muestran de una vez. 3er lead de imprenta/publicidad gráfica.
 
-**Nota de patrón:** si siguen apareciendo leads del mismo nicho (casas de playa en Monterrico), considerar armar un trigger-template reusable para ese ángulo específico en vez de redactar cada uno desde cero (decisión pendiente, Jorge prefiere seguir uno por uno por ahora para no aumentar el margen de error).
+**Nota de patrón (Monterrico):** 5 leads del mismo nicho (casas de playa). Considerar armar un trigger-template reusable para ese ángulo específico en vez de redactar cada uno desde cero (decisión pendiente, Jorge prefiere seguir uno por uno por ahora para no aumentar el margen de error).
+
+**Nota de patrón (fotografía/eventos):** 4 leads el mismo día (Foto Roma, Encuadre Films, Weddings & Princess, Edgar Solar) — nicho nuevo con tracción real, igual que pasó con Monterrico. Vigilar si sigue apareciendo para decidir si amerita su propio ángulo reusable.
+
+**Nota de patrón (imprenta/publicidad gráfica):** ya son 3 leads (Print Factory, BYK Publicidad, Innova Empresarial) — tercer nicho con tracción real el mismo día que Monterrico y fotografía/eventos.
+
+**Canal de contacto: WhatsApp vs DM de Instagram.** No es un cambio general de canal, depende del lead: si el negocio muestra botón o número de WhatsApp (la mayoría), seguir por WhatsApp porque es el canal ya validado (la única respuesta real vino por ahí). Si el lead solo ofrece "Enviar mensaje"/llamada y no muestra WhatsApp, o su bio pide explícitamente "DM for booking" (ej. Edgar Solar, Encuadre Films), mejor contactarlo por DM de Instagram en vez de forzar WhatsApp — coincide con el canal que ellos mismos señalan, aunque el DM de alguien que no te sigue puede caer en "Solicitudes" y perderse más fácil.
+
+## Codex como segundo canal para el mismo proceso
+
+Jorge también usa Codex (en terminal) para hacer lo mismo: mandar screenshot de un lead y recibir ángulo + tier + mensaje. Se le dio un prompt autocontenido (tiers, reglas de precio, estructura Observación → Problema → Propuesta → Ask, convenciones de copy, un ejemplo) ya que Codex no lee este `CLAUDE.md` automáticamente. Si se ajusta el proceso acá (tiers, reglas de precio, convenciones), hay que actualizar también ese prompt en Codex a mano.
 
 ## Para considerar a futuro: agentes de sales de msitarzewski/agency-agents
 
@@ -48,6 +66,27 @@ Repo externo (MIT) con 232 agentes tipo Claude Code. Revisados dos de la divisi�
 1. Cuando Jorge necesite escribir un **follow-up** porque un lead no contestó el primer mensaje → usar la lógica de "cada toque agrega algo nuevo" + breakup message, adaptado a WhatsApp.
 2. Cuando un lead **conteste con una objeción** (precio, "déjame pensarlo", "no tengo tiempo") → usar el playbook de objeciones (preguntas curiosas, no defender el precio).
 3. Si Jorge empieza a manejar **muchos leads a la vez** y pierde el tracking por solo capturas de pantalla → proponer las etapas de pipeline simples de `sales-outreach.md`.
+
+## SEO: decisión y estado (2026-06-24)
+
+Se usó el skill `ai-seo` para pedir un plan de 90 días para `jodabor-web`. Hallazgos técnicos del análisis:
+
+- El sitio es un SPA de una sola página con navegación por hash (`#precios`, `#proyectos`, etc.), sin React Router activo pese a estar instalado. Hoy no existen URLs separadas indexables más allá de `/`. Cualquier plan de "páginas de servicio" requiere primero rutear de verdad + prerenderizado (ej. `vite-react-ssg` o `react-snap` post-build).
+- Inconsistencia de precio: `jodabor-web/public/llms.txt` dice Vitrina = **Q3,000**, pero `Precios.jsx` (fuente real) dice **Q3,250**. Pendiente de corregir en `llms.txt` (importa para AI-SEO: agentes leen ese archivo literal para cotizar).
+
+**Decisión (Jorge):** pausar el plan grande (rutear el sitio, prerender, escribir páginas de nicho como `/paginas-web-para-alquiler-de-casas-de-vacaciones`, `/paginas-web-para-tiendas`, etc.) hasta cerrar más clientes. Razón: el dominio tiene días, el outbound por WhatsApp ya es el canal validado con tracción real (1 lead escalado a superiores), y las páginas de nicho convencen más después de tener un caso real cerrado en ese nicho que antes.
+
+**Sí se hace ahora** (barato, no compite con tiempo de prospección):
+1. **Completar Google Business Profile** — checklist completo ya entregado a Jorge (categoría "Diseñador de sitios web", negocio de área de servicio cubriendo Guatemala, descripción de 750 caracteres, servicios con precio Vitrina/Negocio/Pro, FAQ seedeada, primer post, fotos). Estado: pendiente que Jorge lo pegue en el panel.
+2. **Pedir reseña + backlink ("hecho por Jodabor" en footer) a Kairos y DanceLab** — son los dos clientes con sitio live (`detalleskairos.vercel.app`, `dancelabgt.vercel.app`). Pendiente: redactar los dos mensajes de WhatsApp cuando Jorge lo pida.
+
+Todo lo demás (rutas, prerender, páginas de nicho) queda pausado hasta 2-3 clientes cerrados o más tiempo libre.
+
+## Contenido orgánico: reels
+
+Guiones de reel para IG/FB en `content/reels/`, formato HTML con shot list (encuadre, cámara, acción, audio, overlay), caption, notas técnicas y nota de precio.
+
+- **`guion-reel-esto-te-esta-costando-ventas.html`** — primer reel, ángulo Problema → Solución, 30 seg, talento: modelo (no Jorge). Hook con comentario real de "¿cuánto cuesta?", agita con venta perdida + catálogo disperso en Facebook, solución mostrada con screen record de Kairos/DanceLab, CTA con precio Vitrina (Q3,250) porque es contenido masivo de awareness, no outreach 1:1.
 
 ## Convenciones de copy (heredadas de jodabor-web)
 
