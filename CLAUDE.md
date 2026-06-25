@@ -82,11 +82,27 @@ Se usó el skill `ai-seo` para pedir un plan de 90 días para `jodabor-web`. Hal
 
 Todo lo demás (rutas, prerender, páginas de nicho) queda pausado hasta 2-3 clientes cerrados o más tiempo libre.
 
-## Contenido orgánico: reels
+## Estrategia social IG/FB (2026-06-25)
 
-Guiones de reel para IG/FB en `content/reels/`, formato HTML con shot list (encuadre, cámara, acción, audio, overlay), caption, notas técnicas y nota de precio.
+Cuentas @jodaborweb (IG) y página de FB casi en cero (sin seguidores/posts reales). Plan completo en `/root/.claude/plans/snuggly-sniffing-meteor.md` de la sesión donde se diseñó; resumen vivo acá:
 
-- **`guion-reel-esto-te-esta-costando-ventas.html`** — primer reel, ángulo Problema → Solución, 30 seg, talento: modelo (no Jorge). Hook con comentario real de "¿cuánto cuesta?", agita con venta perdida + catálogo disperso en Facebook, solución mostrada con screen record de Kairos/DanceLab, CTA con precio Vitrina (Q3,250) porque es contenido masivo de awareness, no outreach 1:1.
+**Decisiones de Jorge:** talento on-camera sin decidir todavía (modelo vs Jorge vs mezcla) → arrancar con Jorge en cámara para validar barato, decidir modelo solo si valida. Capacidad real 3-5h/semana, sin equipo. Se permite presupuesto chico de ads (boost desde ~Q30) pero solo para amplificar lo que ya funcionó orgánicamente, nunca para sustituir validación.
+
+**Pilares de contenido:** (1) "Tu negocio vive de Facebook y te cuesta ventas" 35% — agitar el problema, requiere talento; (2) "Así vende un negocio con web propia" (Kairos/DanceLab) 30% — screen record + voz en off, agnóstico a talento; (3) Tips rápidos de negocio digital 25% — carrusel estático o reel texto+voz; (4) Casos de éxito con testimonio 10% (sube cuando haya cierres reales). Los ángulos de nicho ya probados en outbound (Monterrico, fotografía/eventos, imprenta) no se replican igual en contenido social: el contenido público se queda en el dolor genérico transversal, no nombra nichos específicos sin un caso cerrado de ese nicho.
+
+**Cadencia (3-5h/semana):** 1 reel + 1 post estático + 2-3 stories por semana. Publicar primero en IG, espejar el Reel en FB sin producir doble.
+
+**Plan 30/60/90 días (metas honestas, cuenta en cero):** día 30 → 50-150 seguidores, ≥1 reel con >40% completion, 1 DM/comentario con intención real. Día 60 → 150-400 seguidores, identificar el pilar que más retiene, 2-3 DMs con intención. Día 90 → 400-800 seguidores, 1ra pieza boosteada, 1 lead atribuible a contenido social.
+
+**Reglas de boost (~Q30):** solo si completion >40% Y hay comentario/share genuino (no de Jorge); nunca boostear con completion <20%; prioridad de boost a piezas del Pilar 2 (Kairos/DanceLab); máximo 1 boost activo por semana.
+
+## Contenido orgánico: reels y posts
+
+Guiones para IG/FB: reels (video) en `content/reels/`, piezas estáticas (carrusel) en `content/posts/`. Formato HTML con shot list (encuadre, cámara, acción, audio, overlay), caption, notas técnicas y nota de precio/pilar.
+
+- **`content/reels/guion-reel-esto-te-esta-costando-ventas.html`** — primer reel, Pilar 1, ángulo Problema → Solución, 30 seg, talento: modelo (no Jorge). Hook con comentario real de "¿cuánto cuesta?", agita con venta perdida + catálogo disperso en Facebook, solución mostrada con screen record de Kairos/DanceLab, CTA con precio Vitrina (Q3,250) porque es contenido masivo de awareness, no outreach 1:1.
+- **`content/reels/guion-reel-asi-sube-productos-sin-llamarme.html`** — segundo reel, Pilar 2, 25 seg, 100% screen record + voz en off, sin talento on-camera (se puede producir sin esperar la decisión de talento). Muestra el panel admin de Kairos: sube un producto y aparece en el catálogo público al instante. Sin precio, ángulo es la capacidad del panel (tier Negocio).
+- **`content/posts/carrusel-3-senales-facebook.html`** — primer carrusel estático, Pilar 3, 5 slides, 100% Canva sin grabación. "3 señales de que tu Facebook ya no aguanta tu negocio" (preguntas de precio repetidas, catálogo regado en posts viejos, no se puede filtrar/reservar/cotizar). Pieza "comodín" cuando la semana anda corta de tiempo.
 
 ## Convenciones de copy (heredadas de jodabor-web)
 
