@@ -42,6 +42,7 @@ Jorge (dueño de Jodabor) encuentra leads navegando Facebook (páginas de negoci
 - **Weddings & Princess** (anuncio pagado de Instagram, paquetes de foto/video para bodas y XV años "Desde Q2,495") → tier Vitrina, con precio (ya publican el suyo). Mismo patrón de funnel roto que Chalet Los Arenales.
 - **Edgar Solar** (Instagram, @edgarsolar_, fotógrafo individual, 2,494 seguidores, weddings and events photography) → tier Vitrina, con precio. Ángulo limpio: su propia bio dice literal "DM for booking", evidencia directa sin inferir nada.
 - **Innova Empresarial** (Facebook, 127 publicaciones, 87 seguidores, PBX, botón "Cotiza", productos promocionales: redes deportivas, camisetas con marca, tarjetas) → tier propuesto Pro (cotizaciones B2B), igual que BYK queda abierto a bajarlo a Negocio. Ángulo: dicen literal "Solicita nuestro catálogo!", no lo muestran de una vez. 3er lead de imprenta/publicidad gráfica.
+- **Le Beau Guatemala** (Instagram, 13.3k seguidores, 1,064 publicaciones, 1,377 siguiendo, medicina estética/anti-aging + salón de uñas y cabello, teléfono y WhatsApp visibles en bio, posts de tratamientos tipo NAD+ y promos de temporada) → tier Negocio, sin precio. Ángulo distinto a los leads anteriores: NO es falta de alcance (13.3k seguidores, contenido activo), es que con tanto catálogo de tratamientos disperso en cientos de posts/highlights, cualquier precio o cita requiere escribir o llamar uno por uno. Nicho nuevo: medicina estética/spa.
 
 **Nota de patrón (Monterrico):** 5 leads del mismo nicho (casas de playa). Considerar armar un trigger-template reusable para ese ángulo específico en vez de redactar cada uno desde cero (decisión pendiente, Jorge prefiere seguir uno por uno por ahora para no aumentar el margen de error).
 
@@ -84,7 +85,7 @@ Todo lo demás (rutas, prerender, páginas de nicho) queda pausado hasta 2-3 cli
 
 ## Estrategia social IG/FB (2026-06-25)
 
-Cuentas @jodaborweb (IG) y página de FB casi en cero (sin seguidores/posts reales). Plan completo en `/root/.claude/plans/snuggly-sniffing-meteor.md` de la sesión donde se diseñó; resumen vivo acá:
+Cuentas @jodaborweb (IG) y página de FB casi en cero (sin seguidores/posts reales). Plan completo y persistido en `docs/estrategia-social-ig-fb.md`; resumen vivo acá:
 
 **Decisiones de Jorge:** talento on-camera sin decidir todavía (modelo vs Jorge vs mezcla) → arrancar con Jorge en cámara para validar barato, decidir modelo solo si valida. Capacidad real 3-5h/semana, sin equipo. Se permite presupuesto chico de ads (boost desde ~Q30) pero solo para amplificar lo que ya funcionó orgánicamente, nunca para sustituir validación.
 
