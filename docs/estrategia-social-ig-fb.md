@@ -88,6 +88,58 @@ Prioridad: **completion rate > saves > shares > profile visits→follow > DMs/co
 - **Mensual (45 min)**: comparar el mes, identificar pilar ganador, ajustar % de mix.
 - **Hitos día 30/60/90**: comparar contra metas de la tabla arriba.
 
+## Calendario de contenido — 12 semanas
+
+Tema concreto por semana, alternando pilares según el mix (35/30/25/10). No es rígido: si una semana anda corta de tiempo, la pieza del Pilar 3 (carrusel) siempre puede sustituir al reel de esa semana sin romper el calendario.
+
+| Semana | Pilar | Reel/Post | Tema |
+|---|---|---|---|
+| 1 | 1 | Reel | "Esto te está costando ventas" (ya aprobado) |
+| 2 | 2 | Reel | "Así sube productos sin llamarme" (panel admin Kairos) |
+| 3 | 3 | Carrusel | "3 señales de que tu Facebook ya no aguanta tu negocio" (ya aprobado) |
+| 4 | 1 | Reel | "Cuánto te cuesta cada 'still available?' en comentarios" |
+| 5 | 2 | Reel | Screen record DanceLab: cliente reserva clase desde el catálogo sin escribir |
+| 6 | 3 | Carrusel | "5 preguntas que tu página web debería contestar sin que escribas tú" |
+| 7 | 1 | Reel | "Tu competencia ya tiene página, vos seguís contestando precio uno por uno" |
+| 8 | 2 | Reel | Screen record Kairos: catálogo completo en celular vs scroll infinito de Facebook |
+| 9 | 3 | Carrusel | "3 tipos de negocio que SÍ necesitan página propia (no es para todos)" |
+| 10 | 1 | Reel | "El feed de Facebook no es un catálogo, aunque lo usés como uno" |
+| 11 | 2 | Reel | Screen record DanceLab: panel admin actualizando horario de clases en vivo |
+| 12 | 4 o 3 | Reel/Carrusel | Si hay cierre con testimonio: Pilar 4 con quote real. Si no: repetir el carrusel con mejor completion de las semanas 3/6/9, variando solo el hook |
+
+Nota: los temas de semanas 4-11 son borradores de ángulo, no guiones completos. Se escribe el guion shot-by-shot (mismo formato HTML que las piezas 1-3) la semana anterior a producirla, ajustando si algo cambió (ej. un cierre nuevo, una señal orgánica fuerte que conviene duplicar).
+
+## Banco de ideas para stories (reutilizable)
+
+Las stories no requieren guion fijo, pero ayuda tener un banco de formatos para no improvisar cada miércoles. Rotar entre estos 6 tipos, 2-3 por semana:
+
+1. **Detrás de cámara**: foto/clip de Jorge grabando o editando el reel de la semana ("Armando el reel de esta semana").
+2. **Poll/pregunta**: "¿Tu negocio vive solo en Facebook?" Sí/No, o "¿Cuál de estos 3 problemas te suena más?" con sticker de encuesta.
+3. **Detrás del panel**: screenshot rápido (no video) de algo nuevo en Kairos/DanceLab, "Mirá lo que se actualizó esta semana".
+4. **Cuenta regresiva / teaser**: 1 día antes de publicar el reel/post, sticker de countdown con el hook sin revelar la solución.
+5. **Repost con comentario**: si el reel de la semana tiene buen completion, resubirlo a stories con un sticker de "Esto les gustó" o el comentario genuino que recibió.
+6. **Mini-tip suelto**: una sola frase de autoridad sin producción (texto sobre fondo de marca), variante corta de un slide del carrusel de esa semana.
+
+## Día 90: qué hacer según resultado
+
+Evaluar contra las 3 métricas de la tabla de 90 días (seguidores, retención, conversión) y decidir una sola ruta, no varias a la vez.
+
+**Si se cumplieron las 3 metas (o cerca):**
+- Subir cadencia a 2 reels/semana solo si la capacidad de tiempo lo permite sin sacrificar calidad; si no, mantener cadencia y aumentar el % de boost en el pilar ganador.
+- Evaluar invertir en modelo contratada para el Pilar 1 si Jorge en cámara fue el techo de producción (cuello de botella de tiempo, no de validación).
+- Documentar el pilar/formato ganador en este archivo y reasignar el mix (ej. si Pilar 2 retiene más, subir de 30% a 40-45%).
+
+**Si se cumplió retención pero no conversión** (la gente ve y completa, pero no hay DMs/leads):
+- El problema es de CTA, no de contenido. Probar CTAs más directos ("Escribinos ahora" en vez de "Mirá ejemplos") antes de cambiar de ángulo.
+- Revisar si el link en bio / botón de WhatsApp en el perfil están realmente friccionless (probar el flujo completo como si fuera un extraño).
+
+**Si no se cumplió ni retención ni conversión** (completion bajo en casi todo):
+- El problema es de hook o de audiencia, no de oferta. Antes de cambiar el pilar, probar 2-3 hooks nuevos sobre el mismo contenido del Pilar 2 (el más agnóstico a talento, más rápido de iterar).
+- Si tras 2-3 intentos de hook sigue sin moverse, revisar si el targeting de seguidores iniciales (boosts, follows manuales) está alcanzando al público correcto (pymes/emprendimiento Guatemala) o se diluyó en audiencia genérica.
+- No abandonar el canal a los 90 días por bajo crecimiento de seguidores solo: la métrica que de verdad decide continuar o pausar es si hubo al menos 1 lead atribuible, aunque los seguidores se queden bajos.
+
+**En cualquier escenario:** no extender el plan más allá de 90 días sin revisar esta sección primero. Decidir y ajustar antes de seguir produciendo en automático.
+
 ## Coherencia con el resto del negocio
 
 - Mismo banco de assets (screen recordings de Kairos/DanceLab) sirve para reels **y** para el ejemplo que Jorge manda por WhatsApp en outreach 1:1 — no duplicar esfuerzo.
