@@ -37,6 +37,20 @@ Activos reales disponibles como prueba social: 2 clientes con sitio **live** —
 
 Importante: los ángulos de nicho ya probados en outbound (Monterrico, fotografía/eventos, imprenta, medicina estética) **no se replican igual en social** — contenido público se queda en el dolor genérico transversal, no nombra nichos específicos sin un caso cerrado de ese nicho.
 
+## Posicionamiento de marca: pain point y villano
+
+Dos piezas separadas, cada una con un trabajo distinto:
+
+- **Pain point (argumento racional, ya usado en cada mensaje de outbound):** el negocio depende de que alguien escriba y de que el dueño conteste, para algo que debería poder verse y decidirse solo (catálogo disperso, precio a ciegas, todo pasa por una sola persona).
+- **Villano (la pieza que faltaba en el contenido social, sobre todo Pilar 1):** el conformismo, no la postergación. No es que el dueño tenga la intención de arreglarlo "después", es que ya normalizó la fricción como el costo de tener negocio en redes: "así nos ha funcionado, así se hacen las cosas aquí." Se descartó el molde tipo Nike (villano = falta de acción/decisión) porque para pymes guatemaltecas pega más fuerte la resignación que la procrastinación activa.
+
+El pain point sigue siendo la base de cada mensaje de outbound. El villano (conformismo) se mete en los hooks del Pilar 1 para generar urgencia real sin sonar a cliché motivacional, señalando que algo que se siente "normal" en el negocio en realidad es un hábito que nadie cuestionó.
+
+Ejemplos de hook con este ángulo:
+- "Llevás años contestando lo mismo en los comentarios y le decís que 'así es como funciona'."
+- "No es que tu negocio esté mal, es que te acostumbraste a que funcione a medias."
+- "Si hace 2 años te preguntaban precio en comentarios y hoy también, no es normal, es que nadie lo cambió."
+
 ## Cadencia (3-5h/semana)
 
 | Día | Actividad | Tiempo |

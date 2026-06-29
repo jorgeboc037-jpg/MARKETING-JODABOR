@@ -19,10 +19,11 @@ Jorge (dueño de Jodabor) encuentra leads navegando Facebook (páginas de negoci
    - **Negocio (Q7,000)** — catálogo dinámico + panel admin para que ellos mismos suban/actualicen cada unidad (propiedad, chalet, producto). Para leads con inventario variable que cambia seguido.
    - **Pro (Q10,500)** — agrega cotizaciones B2B, ideal para distribuidoras/proveedores, no aplica a la mayoría de estos leads.
 4. **Redactar el mensaje** (estructura tipo Observación → Problema → Propuesta → Ask, comprimida a 3-4 líneas de WhatsApp):
-   - Abre con la observación específica (seguidores + qué manejan), no con "Hola, soy Jorge de Jodabor" como protagonismo.
+   - Abre con "Hola, soy Jorge de Jodabor, hago páginas web para negocios" y sigue directo con la observación específica (seguidores + qué manejan), así queda claro desde el inicio qué se está ofreciendo.
    - Conecta la observación al problema real que tiene esa limitación.
-   - Propone el tipo de sitio (sin necesariamente mencionar precio si el lead amerita el tier más caro: subestimar con un precio bajo "ancla" mal vendido le hace flaco favor al cierre).
+   - Propone el tipo de sitio nombrando explícitamente "página web" (no quedarse en "catálogo propio" o "algo propio" de forma ambigua), sin necesariamente mencionar precio si el lead amerita el tier más caro: subestimar con un precio bajo "ancla" mal vendido le hace flaco favor al cierre.
    - Cierra con un CTA de baja friction: "¿Te interesa ver un ejemplo?" / "¿Te paso un ejemplo rápido?" — nunca pedir llamada en el primer mensaje.
+   - Evitar frases que suenen a juicio sobre cómo se ve el negocio hoy (ej. "se vería más profesional"): puede leerse como insulto. Enfocar el beneficio en la experiencia del cliente final del lead, no en una crítica a su imagen actual.
 5. **El precio se menciona en el mensaje solo si el tier es Vitrina** (oferta simple, precio bajo no ahuyenta). Si el lead necesita Negocio o Pro, el precio se reserva para cuando contesten interesados, así no se subvende el trabajo real.
 
 ### Ejemplos ya redactados
@@ -98,6 +99,15 @@ Cuentas @jodaborweb (IG) y página de FB casi en cero (sin seguidores/posts real
 **Reglas de boost (~Q30):** solo si completion >40% Y hay comentario/share genuino (no de Jorge); nunca boostear con completion <20%; prioridad de boost a piezas del Pilar 2 (Kairos/DanceLab); máximo 1 boost activo por semana.
 
 **Acceso a herramientas (2026-06-25):** Jorge ya dio acceso a integraciones de Canva y Gmail en esta sesión de Claude Code. Canva sirve para producir de verdad los carruseles/posts estáticos del Pilar 3 (ya no solo el guion en HTML, sino el diseño final). Gmail puede usarse si algún lead/cliente prefiere contacto por correo en vez de WhatsApp (poco común hasta ahora, pero queda disponible).
+
+## Posicionamiento de marca: pain point y villano (2026-06-26)
+
+Se separaron dos cosas que antes estaban mezcladas en el contenido:
+
+- **Pain point (el argumento racional, ya usado en cada mensaje de outbound):** el negocio depende de que alguien escriba y de que el dueño conteste, para algo que debería poder verse y decidirse solo (catálogo disperso, precio a ciegas, todo pasa por una sola persona).
+- **Villano (la pieza que faltaba en el contenido social, sobre todo Pilar 1):** el conformismo, no la postergación. No es que el dueño tenga la intención de arreglarlo "después", es que ya normalizó la fricción como el costo de tener negocio en redes: "así nos ha funcionado, así se hacen las cosas aquí." Se descartó imitar el molde de Nike (villano = falta de acción/decisión) porque para pymes guatemaltecas pega más fuerte la resignación que la procrastinación activa.
+
+**Cómo se usa:** el pain point sigue siendo la base de cada mensaje de outbound (ya funciona así). El villano (conformismo) se mete en los hooks del Pilar 1 para generar urgencia real sin sonar a cliché motivacional, señalando que algo que se siente "normal" en el negocio en realidad es un hábito que nadie cuestionó. Ejemplos de hook con este ángulo: "Llevás años contestando lo mismo en los comentarios y le decís que 'así es como funciona'", "No es que tu negocio esté mal, es que te acostumbraste a que funcione a medias", "Si hace 2 años te preguntaban precio en comentarios y hoy también, no es normal, es que nadie lo cambió."
 
 ## Contenido orgánico: reels y posts
 
