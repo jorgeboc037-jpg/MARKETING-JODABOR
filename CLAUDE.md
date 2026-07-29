@@ -109,6 +109,16 @@ Se separaron dos cosas que antes estaban mezcladas en el contenido:
 
 **Cómo se usa:** el pain point sigue siendo la base de cada mensaje de outbound (ya funciona así). El villano (conformismo) se mete en los hooks del Pilar 1 para generar urgencia real sin sonar a cliché motivacional, señalando que algo que se siente "normal" en el negocio en realidad es un hábito que nadie cuestionó. Ejemplos de hook con este ángulo: "Llevás años contestando lo mismo en los comentarios y le decís que 'así es como funciona'", "No es que tu negocio esté mal, es que te acostumbraste a que funcione a medias", "Si hace 2 años te preguntaban precio en comentarios y hoy también, no es normal, es que nadie lo cambió."
 
+## Vendedor comisionista: prospección + cierre (2026-07-29)
+
+Jorge incorpora un vendedor 100% comisión (sin salario), que en el mercado guatemalteco hace ambos roles en uno: prospecta (busca/contacta leads) y cierra. Estrategia completa para entregarle en `docs/estrategia-vendedor-comisionista.md`, resumen acá:
+
+- **Proceso:** mismo flujo ya validado en outbound WhatsApp (Observación → Problema → Propuesta → Ask, ángulo específico no genérico, tier según inventario fijo/variable/B2B), más lo que faltaba para que trabaje solo: cadencia de seguimiento de 4 toques en ~3 semanas (cada toque agrega algo nuevo, último es "despedida" sin presión) y playbook de objeciones (explorar con preguntas, nunca defender el precio ni bajarlo). Viene del repo externo `msitarzewski/agency-agents` (`sales-outreach.md`) mencionado más abajo como "a futuro" — este es el trigger #3 que se cumplió (maneja muchos leads a la vez).
+- **Pipeline simple** (sin CRM): Prospección → Contactado → Enganchado → Propuesta → Negociación → Cerrado.
+- **Comisión:** 8% fijo sobre el monto sin IVA. Régimen actual (Pequeño Contribuyente 5%): Vitrina Q247, Negocio Q532, Pro Q798. Si sube a régimen General (12%): Vitrina Q232.14, Negocio Q500, Pro Q750.
+- **Pago de comisión: prorrateada por pago.** El vendedor cobra 8% de cada pago del cliente conforme va entrando (ej. anticipo Q3,500 de Negocio → Q280 al toque), no el total de una sola vez. Esto también resuelve las cancelaciones a medio proyecto: solo se cobra sobre lo que efectivamente entró.
+- **Reglas no negociables para el vendedor:** no prometer fechas sin confirmar con Jorge, no bajar precio sin autorización, no inventar datos del cliente, precio solo se menciona en el primer contacto si es tier Vitrina.
+
 ## Contenido orgánico: reels y posts
 
 Guiones para IG/FB: reels (video) en `content/reels/`, piezas estáticas (carrusel) en `content/posts/`. Formato HTML con shot list (encuadre, cámara, acción, audio, overlay), caption, notas técnicas y nota de precio/pilar.
