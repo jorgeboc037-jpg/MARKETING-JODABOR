@@ -111,7 +111,7 @@ Se separaron dos cosas que antes estaban mezcladas en el contenido:
 
 ## Vendedor comisionista: prospección + cierre (2026-07-29)
 
-Jorge incorpora un vendedor 100% comisión (sin salario), que en el mercado guatemalteco hace ambos roles en uno: prospecta (busca/contacta leads) y cierra. Estrategia completa para entregarle en `docs/estrategia-vendedor-comisionista.md`, resumen acá:
+Jorge incorpora un vendedor 100% comisión (sin salario), que en el mercado guatemalteco hace ambos roles en uno: prospecta (busca/contacta leads) y cierra. Dos documentos entregables: `docs/perfil-puesto-vendedor.md` (ficha del puesto: misión, responsabilidades, perfil ideal, condiciones, métricas de éxito) y `docs/estrategia-vendedor-comisionista.md` (el proceso operativo detallado: mensajes, cadencia, objeciones). Resumen del proceso acá:
 
 - **Proceso:** mismo flujo ya validado en outbound WhatsApp (Observación → Problema → Propuesta → Ask, ángulo específico no genérico, tier según inventario fijo/variable/B2B), más lo que faltaba para que trabaje solo: cadencia de seguimiento de 4 toques en ~3 semanas (cada toque agrega algo nuevo, último es "despedida" sin presión) y playbook de objeciones (explorar con preguntas, nunca defender el precio ni bajarlo). Viene del repo externo `msitarzewski/agency-agents` (`sales-outreach.md`) mencionado más abajo como "a futuro" — este es el trigger #3 que se cumplió (maneja muchos leads a la vez).
 - **Pipeline simple** (sin CRM): Prospección → Contactado → Enganchado → Propuesta → Negociación → Cerrado.
